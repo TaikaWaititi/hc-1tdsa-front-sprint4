@@ -1,6 +1,6 @@
 # HC Sprint 4 - Front-End (React + Vite + TypeScript)
 
-**Projeto:** Sistema de Gestão (Sprint 4)  
+**Projeto:** HC+ (Sprint 4)  
 **Equipe:**  
 - Bruno Martins Bettio (RM564939)  
 - Otávio Ferreira Barreto Santos (RM565960)  
