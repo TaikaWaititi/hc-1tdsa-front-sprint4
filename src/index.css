@@ -1,0 +1,10 @@
+@import '../tailwind.css';
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background: linear-gradient(180deg, #f7fdff 0%, #ffffff 100%);
+}

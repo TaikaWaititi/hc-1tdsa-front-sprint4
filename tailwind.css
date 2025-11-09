@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small helpers used by components */
+
+:root {
+  --hospital-cyan: #00bcd4;
+  --hospital-light-blue: #b3e5fc;
+  --hospital-white: #ffffff;
+}
+
+
+/* utility helper classes for project-specific variables */
+.text-hospital-cyan { color: var(--hospital-cyan) !important; }
+.bg-hospital-cyan { background-color: var(--hospital-cyan) !important; }
