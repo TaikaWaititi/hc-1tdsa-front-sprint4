@@ -9,6 +9,8 @@ export default function Contact(){
         <p><strong>Telefone:</strong> (11) 99421-1741</p>
         <p><strong>Email:</strong> brunomartinsbettio@gmail.com</p>
       </div>
+
+
     </div>
   )
 }
